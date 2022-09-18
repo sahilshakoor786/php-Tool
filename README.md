@@ -9,13 +9,13 @@ This is the attacking tool which can be use to find and grab ip address and DDoS
 
 Dependecies :-
 
-hping3
+`hping3`
 
-host
+`host`
 
-php
+`php`
 
-dnsutils
+`dnsutils`
 
 Install dependencies*****
 
@@ -23,13 +23,13 @@ Linux :-
 
 Enter the following commands :-
 
-1> sudo apt install hping3
+1> `sudo apt install hping3`
 
-2> sudo apt install dnsutils
+2> `sudo apt install dnsutils`
 
-3> sudo apt install php
+3> `sudo apt install php`
 
-4> sudo apt install host
+4> `sudo apt install host`
 
-Start Attacking
+*Start Attacking*
 php tool.php
